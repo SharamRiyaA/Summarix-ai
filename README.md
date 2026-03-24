@@ -180,6 +180,7 @@ DJANGO_DEBUG=True
 DJANGO_ALLOWED_HOSTS=127.0.0.1,localhost
 CORS_ALLOWED_ORIGINS=http://localhost:5173
 OPENAI_API_KEY=your-openai-api-key
+
 OPENAI_MODEL=gpt-4o-mini
 OPENAI_TEMPERATURE=0.2
 TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
