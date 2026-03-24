@@ -2,7 +2,7 @@ import axios from "axios";
 import { getAccessToken, logout } from "./auth";
 
 const api = axios.create({
-  baseURL: "https://summarix-ai.onrender.com/api"
+  baseURL: "https://summarix-ai-apqb.onrender.com/api"
 });
 
 api.interceptors.request.use((config) => {
